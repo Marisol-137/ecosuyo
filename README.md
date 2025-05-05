@@ -16,7 +16,7 @@ Ecosuyo is an AI-powered financial assistant designed specifically for Peruvian 
 Ecosuyo is an AI-powered financial assistant specifically designed to support micro and small enterprises (MYPES) in Peru. Its modular architecture combines data preprocessing, intelligent inference, multilingual interaction, and an intuitive user interface to deliver accessible, personalized financial analysis and inclusive decision-making support.
 
 <p align="center">
-  <img width="auto" height="auto" src="https://github.com/Marisol-137/ecosuyo/blob/main/architecture%20(1).jpg">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/ecosuyo/blob/main/Imagen%20de%20WhatsApp%202025-05-05%20a%20las%2003.56.03_3ae8aa22.jpg">
 </p>
 
 
@@ -28,12 +28,11 @@ Ecosuyo also promotes technological and linguistic inclusion by incorporating vo
 
 The user interface is built with Streamlit. It offers interactive dashboards where users can upload financial records, monitor their income and expenses, compare product profitability, receive automatic alerts, and access tailored strategies. Firebase handles secure authentication, data storage, and cloud synchronization on the backend, ensuring scalability and data protection across user sessions.
 
-Lastly, Ecosuyo features a feedback mechanism through which users can validate, reject, or adjust the recommendations they receive. This information is periodically sent back to the AI system to improve prediction accuracy and adaptability. Through this ongoing learning process, Ecosuyo evolves with each business, enhancing its responses to shifting financial conditions.
+Lastly, Ecosuyo features a feedback mechanism through which users can validate, reject, or adjust the recommendations they receive. This information is periodically returned to the AI system to improve prediction accuracy and adaptability. Ecosuyo evolves with each business through this ongoing learning process, enhancing its responses to shifting financial conditions.
 
 
 ## Video demonstration URL 
-Video demonstration:
+Video demonstration:https://www.youtube.com/watch?v=UmItpIzeSpE
 
 ## Demo
-Live Demo: 
-Video Demo:
+Live Demo: https://www.canva.com/design/DAGjLKjPAHw/VbIv7s7mFwwLAppJZ9I5rA/view?mode=prototype#p-gina-sin-t-tulo-5
