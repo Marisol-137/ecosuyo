@@ -15,6 +15,11 @@ Ecosuyo is an AI-powered financial assistant designed specifically for Peruvian 
 ## AI-powered virtual agent using IBM watsonx.ai 
 Ecosuyo is an AI-powered financial assistant specifically designed to support micro and small enterprises (MYPES) in Peru. Its modular architecture combines data preprocessing, intelligent inference, multilingual interaction, and an intuitive user interface to deliver accessible, personalized financial analysis and inclusive decision-making support.
 
+<p align="center">
+  <img width="auto" height="auto" src="https://github.com/Marisol-137/ecosuyo/blob/main/architecture%20(1).jpg">
+</p>
+
+
 The data processing layer is built using Python, where libraries such as Pandas and NumPy are employed to structure, clean, and transform financial information provided by users via CSV uploads, forms, or APIs. This stage enables the calculation of derived metrics such as profit margins, expenditure classifications, and monthly variations, producing a clean and standardized dataset ready for AI analysis.
 
 The system’s intelligence lies in its integration with IBM Watsonx.ai, specifically the Granite model, connected through the LangChain library. This foundation model interprets both structured and unstructured data to provide contextual financial diagnostics, detect anomalies such as cost overruns or consistent losses, and generate personalized recommendations for each business. Unlike traditional tools based on rigid rules, Granite applies deep learning and natural language processing techniques, allowing it to adapt dynamically to each enterprise’s historical patterns and context.
